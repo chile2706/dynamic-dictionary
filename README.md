@@ -16,11 +16,11 @@ After obtaining the word or phrase
 
 ### Add
 After obtaining {word/phrase: definition},
-  - If there is an exact match, the program will report that the word or phrase already exists to the user
+  - If there is <ins>**an exact match**</ins>, the program will report that the word or phrase already exists to the user
   - Otherwise, the program will add the word/phrase to the dictionary
 ### Update
 - After obtaining the {word/phrase: definition}, the program will find the exact match and replace the existing definition with the new definition
-- If an exact (case insensitive) match does not exist, then the program will report that
+- If an <ins>**exact (case insensitive) match**</ins> does not exist, then the program will report that
 ## III. Close
 Close the dictionary
 - Prompt the user for the name of an output file
