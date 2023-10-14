@@ -1,7 +1,7 @@
 # Dynamic Dictionary
 This is a user-friendly Slang Dictionary program. 
 ## I. Populate Dictionary
-- <ins>**Populate**</ins> the dictionary by prompting for the name(s) of a file
+- <ins>**Populate**</ins> the dictionary by prompting for the name(s) of a file ([UK Slang](UK_SlangDictionary.txt) and [US Slang](US_SlangDictionary-1.txt))
 - <ins>**Read in the data**</ins> and store in the dictionary
 - Once the user finishes populating, the program <ins>**sorts**</ins> the dictionary into lexically ascending order
 ## II. Interact with the Dictionary
